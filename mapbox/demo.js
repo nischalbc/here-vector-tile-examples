@@ -10,6 +10,8 @@ function initMap() {
 
 
 onload = function() {
+   
+   alert('Hello !!');
    initMap();
 }
 
